@@ -1,12 +1,11 @@
 const FILES_TO_CACHE = [
-    '/',
     '/index.html',
     '/index.js',
     '/db.js',
-    '/style.css',
-    'manifest.webmanifest',
+    '/styles.css',
+    '/manifest.webmanifest',
     '/icons/icon-192x192.png',
-    'https://cdnjs.cloudflare.com/ajax/libs/normalize/8.0.1/normalize.min.css',
+    '/icons/icon-512x512.png'
   ];
   
 const CACHE_NAME = "static-cache-v1";
