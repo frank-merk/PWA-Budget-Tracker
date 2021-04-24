@@ -4,7 +4,7 @@ A PWA Application for managing a personal budget
 [Live Demo](
 https://budget-tracker-pwa-merchlewitz.herokuapp.com/)
 
-![Screenshot](public/images/PWA-Budget-Tracker.PNG)
+![Screenshot](public/images/PWA-Budget-App.PNG)
 
 
 
