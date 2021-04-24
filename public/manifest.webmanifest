@@ -2,17 +2,17 @@
     "name": "Budget PWA",
     "short_name": "Budget",
     "start_url": "/",
-    "background_color": "#FFFFF",
-    "theme_color": "#FFFFF",
+    "background_color": "#FFFFFF",
+    "theme_color": "#FFFFFF",
     "display": "standalone",
     "icons": [
       {
-        "src": "assets/images/icon-192x192.png",
+        "src": "public/icons/icon-192x192.png",
         "sizes": "192x192",
         "type": "image/png"
       },
       {
-        "src": "assets/images/icon-512x512.png",
+        "src": "public/icons/icon-512x512.png",
         "sizes": "512x512",
         "type": "image/png"
       }
