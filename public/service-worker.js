@@ -51,7 +51,7 @@ self.addEventListener('fetch', (event) => {
             }
             return nestResponse;
         }).catch(err => {
-          return cache.match(event.request);
+          return cachedResponse.match(event.request);
         })
       }).catch(err => console.log(err))
     );
